@@ -1,1 +1,10 @@
-Hello GitHub
+Ripper
+------
+ A small utility driven by plugins to detect embedded files in arbitrary data.
+
+
+But why?
+
+Because I couldn't find a simple program for my needs when I needed to extract
+a couple of embeddedd PNGs from an .EXE file.
+
